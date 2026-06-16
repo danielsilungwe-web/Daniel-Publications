@@ -1,0 +1,46 @@
+Institutional De-Risking and Value Chain Transformation: A Doctoral Research Program on Agricultural Insurance and Smallholder Soybean Resilience in Zambia
+The Macro-Economic Imperative and Problem Contextualization
+The agricultural landscape of Zambia is navigating a period of profound structural flux, characterized by national development goals set against escalating climatic volatility. Central to this transition is the soybean (Glycine max) sub-sector, which has evolved from a secondary rotation crop into a strategic cornerstone for industrial growth. The Eighth National Development Plan (8NDP) 2022–2026 positions agriculture as a primary driver for Vision 2030, which aspires to transform Zambia into a prosperous middle-income nation.
+This doctoral research program is a direct continuation and expansion of my Master’s thesis at the University of Lusaka, titled "Assessing the Impact of Limited Access to Formal Crop Insurance on Smallholder Soybean Farmer Resilience and Value Addition in Eastern Province, Zambia: A Case Study on Strategies for Enhanced Financial Inclusion" (Silungwe, 2026). My previous work established that smallholder soybean producers who cultivate 81% of the total soybean area remain in a state of "uninsured vulnerability" due to an acute insurance gap. The 2023-2024 agricultural season served as a catastrophic validation of this thesis, as El Niño-induced drought decimated 70% of the national harvest, causing soybean production to plummet by 74%.
+While my Master's research identified the "What" (the massive awareness gap and high risk-aversion), this doctoral study focuses on the "How" developing a scalable framework for "Institutionalized Risk Finance" to transition farmers from subsistence to resilient agribusiness.
+The Research Inquiry: Building from Master's Findings
+Building on the results of my Master's thesis, which uncovered a 94% awareness gap and a low mean trust score of 2.68/5 among smallholders, this doctoral inquiry seeks to analyse the causal mechanisms that link insurance to long-term value chain transformation. It moves beyond descriptive barriers to test whether the provision of robust, data-driven insurance can "unlock" capital for mechanized processing, such as oil expellers or specialized storage.
+The investigation addresses three specific doctoral-level pillars:
+1. Causal Impact Analysis: Moving beyond the "Risk-Aversion Trap" identified in the Master’s study (89.5% of farmers blocked from investment), this phase uses advanced econometrics to quantify how insurance access shifts input intensity and capital expenditure.
+2. Institutional Framework Design: Proposing a roadmap for integrating insurance within national programs like CATSP (Comprehensive Agriculture Transformation Support Programme) and FISP (Farmer Input Support Programme).
+3. Technological De-Risking: Assessing the use of remote sensing (NDVI) and satellite-derived vegetation indices to reduce "Basis Risk" and lower the high premiums (currently K200–K900 per acre) identified as a supply-side barrier in the preliminary study.
+Theoretical Foundations of Risk and Resilience
+A rigorous doctoral analysis must engage with the economic theories governing behaviour under uncertainty. This research builds upon the frameworks utilized in the Master’s thesis while adding a layer of structural transformation theory.
+The Risk Balancing Hypothesis and Financial Leverage
+The Risk Balancing Hypothesis, as detailed by Gabriel and Baker (1980), remains the core theoretical driver. The theory assumes that farmers operate under a maximum acceptable total risk (beta), which is the sum of business risk (BR) and financial risk (FR).
+TR = BR + FR
+My Master’s findings confirmed a "stagnation equilibrium": because BR remains unmitigated, FR (borrowing) is minimized to near zero. This behaviour is supported by the 2022 MSME Finance Survey, where only 3.3% of Zambian business owners accessed formal credit. This doctoral study will utilize longitudinal data to test if reducing BR through insurance allows for the necessary increase in FR to facilitate value-adding investments.
+3 | P a g e
+New Institutional Economics (NIE) and Transaction Costs
+As established in the Master’s study, "market thinness" in rural Zambia is driven by prohibitive transaction costs. The NIE framework, emphasizing the work of Coase and Williamson, helps explain why 94.0% of farmers are unaware of existing products information costs and monitoring costs are too high for traditional indemnity models. The PhD will focus on institutional innovations, such as group aggregation and digital index insurance, to compress these costs.
+Socio-Economic Context: The Zambian Soybean Value Chain
+The Zambian soybean sector is the country’s second most important crop. While the Master’s thesis focused on the Eastern Province districts of Katete and Petauke, this expansion acknowledges the broader value chain valued at $830 million.
+The Master's study noted that the absence of insurance prevents youth Agri entrepreneurs from scaling operations. This continuation integrates findings from FAO/UNIDO (2025) regarding the USD 47.9 million investment needed in soybeans to address the productivity gap.
+Proposed Methodology: Doctoral-Scale Analytical Design
+To elevate the Master’s work to a doctoral level, the research design has been scaled for higher statistical power and causal identification.
+Increased Sample Size and Statistical Power
+While the initial Master's study utilized a sample of n=200 to establish baseline correlations, this doctoral continuation increases the sample size to 600 smallholder soybean farmers across the Eastern Province. This increase is essential for performing advanced econometric modelling (IV-Probit) and ensuring sub-regional representativeness across diverse agro-ecological zones.
+Formula: Cochran’s Formula: n = {(Z^2 * p * q) / e^2}
+Where:
+n = the required sample size.
+Z = 2.576 (The critical value/Z-score for a 99% confidence level).
+p = 0.5 (The estimated proportion of the population, set at 50% for maximum variability).
+q = 0.5 (The probability of failure, calculated as 1 – p).
+e = 0.052 (The chosen margin of error of 5.2%).
+1. Parameters: Z = 2.576 (99% Confidence Level); p = 0.5 (Maximum Variability); e = 0.052 (Reduced Margin of Error for Doctoral Precision).
+2. Final Sample: n = 600 respondents.
+Econometric Identification: IV-Probit and ARDL Bounds
+The quantitative analysis will go beyond the descriptive statistics used in the Master's (SPSS frequency tables) to include:
+1) Instrumental Variable Probit (IV-Probit): To solve the endogeneity of insurance uptake.
+2) ARDL Bounds Testing: To examine the long-run equilibrium relationship between insurance coverage and agricultural productivity.
+3) Lewbel approach: To disentangle ex-ante (investment) and ex-post (payout) impacts of index-based insurance.
+Strategic Frameworks and Behavioural Nudges
+Building on the Master’s recommendation for "smart subsidies," the PhD explores the "Institutionalization Framework" of the UNDP Insurance and Risk Finance Facility. It investigates the role of behavioural science, such as "trust messengers" and "premium rebates," which have been shown to increase willingness to participate by 20% in similar African contexts.
+5 | P a g e
+Conclusion: Expanding the Thesis into a Policy Vision
+The Master's thesis concluded that the Eastern Province was in a state of "uninsured vulnerability". This doctoral program expands that conclusion into an actionable policy vision, positioning inclusive insurance as the primary de-risking tool for Zambia’s industrialization. By tripling the sample size and employing robust causal models, this research aims to provide the evidentiary weight needed to integrate insurance into the core of Zambia's agricultural structural transformation.
